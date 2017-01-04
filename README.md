@@ -5,8 +5,8 @@ I was looking for crypto-currency symbols for a [ticker app](http://yoni.ninja/c
 **Not official in any way, your mileage may vary, etc.**
 
 | Name            |  Code  | Symbol|
-| --------------- |:------:|:---:  |
-| Bitcoin         |XBT, BTC|₿      |
+| --------------- |:------:|:-----:|
+| Bitcoin         |XBT     |₿      |
 | Ethereum        |ETH     |Ξ      |
 | Ripple          |XRP     |Ʀ      |
 | Litecoin        |LTC     |Ł      |
@@ -15,5 +15,5 @@ I was looking for crypto-currency symbols for a [ticker app](http://yoni.ninja/c
 | Augur           |REP     |Ɍ      |
 | Steem           |STEEM   |ȿ      |
 | Dogecoin        |DOGE    |Ð      |
-| Zcash           |ZEC     |ⓩ     |
+| Zcash           |ZEC     |ⓩ      |
 
