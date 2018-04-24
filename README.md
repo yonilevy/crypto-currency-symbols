@@ -16,4 +16,5 @@ I was looking for crypto-currency symbols for a [ticker app](http://yoni.ninja/c
 | Steem           |STEEM   |ȿ      |
 | Dogecoin        |DOGE    |Ð      |
 | Zcash           |ZEC     |ⓩ      |
+| Cardano         |ADA     |₳      |
 
