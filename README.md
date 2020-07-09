@@ -11,7 +11,7 @@ Unicode symbols for different crypto currencies.
 | Bitcoin         |BTC     |₿      |
 | Ethereum        |ETH     |Ξ      |
 | Tether          |USDT    |₮      |
-| Ripple          |XRP     |Ʀ      |
+| XRP             |XRP     |✕      |
 | Bitcoin Cash    |BCH     |Ƀ      |
 | Bitcoin SV      |BSV     |Ɓ      |
 | Litecoin        |LTC     |Ł      |
