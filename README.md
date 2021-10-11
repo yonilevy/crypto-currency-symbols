@@ -19,6 +19,7 @@ Unicode symbols for different crypto currencies.
 | Cardano         |ADA     |₳      |
 | Tezos           |XTZ     |ꜩ      |
 | Monero          |XMR     |ɱ      |
+| Nano            |NANO    |Ӿ      |
 | Ethereum Classic|ETC     |ξ      |
 | Maker           |MKR     |Μ      |
 | Zcash           |ZEC     |ⓩ      |
