@@ -18,6 +18,7 @@ Unicode symbols for different crypto currencies.
 | EOS             |EOS     |ε      |
 | Cardano         |ADA     |₳      |
 | Tezos           |XTZ     |ꜩ      |
+| Iota            |MIOTA   |ɨ      |
 | Monero          |XMR     |ɱ      |
 | Ethereum Classic|ETC     |ξ      |
 | Maker           |MKR     |Μ      |
