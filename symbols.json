@@ -93,5 +93,10 @@
     "name": "Polkadot",
     "code": "DOT",
     "symbol": "●"
+  },
+  {
+    "name": "Dash",
+    "code": "DASH",
+    "symbol": "Đ"
   }
 ]
