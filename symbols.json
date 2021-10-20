@@ -1,20 +1,93 @@
-{
-  "ADA": "₳",
-  "BCH": "Ƀ",
-  "BSV": "Ɓ",
-  "BTC": "₿",
-  "DAI": "◈",
-  "DOGE": "Ð",
-  "EOS": "ε",
-  "ETC": "ξ",
-  "ETH": "Ξ",
-  "LTC": "Ł",
-  "MKR": "Μ",
-  "REP": "Ɍ",
-  "STEEM": "ȿ",
-  "USDT": "₮",
-  "XMR": "ɱ",
-  "XRP": "✕",
-  "XTZ": "ꜩ",
-  "ZEC": "ⓩ"
-}
+[
+  {
+    "name": "Bitcoin",
+    "code": "BTC",
+    "symbol": "₿"
+  },
+  {
+    "name": "Ethereum",
+    "code": "ETH",
+    "symbol": "Ξ"
+  },
+  {
+    "name": "Tether",
+    "code": "USDT",
+    "symbol": "₮"
+  },
+  {
+    "name": "XRP",
+    "code": "XRP",
+    "symbol": "✕"
+  },
+  {
+    "name": "Bitcoin Cash",
+    "code": "BCH",
+    "symbol": "Ƀ"
+  },
+  {
+    "name": "Bitcoin SV",
+    "code": "BSV",
+    "symbol": "Ɓ"
+  },
+  {
+    "name": "Litecoin",
+    "code": "LTC",
+    "symbol": "Ł"
+  },
+  {
+    "name": "EOS",
+    "code": "EOS",
+    "symbol": "ε"
+  },
+  {
+    "name": "Cardano",
+    "code": "ADA",
+    "symbol": "₳"
+  },
+  {
+    "name": "Tezos",
+    "code": "XTZ",
+    "symbol": "ꜩ"
+  },
+  {
+    "name": "Monero",
+    "code": "XMR",
+    "symbol": "ɱ"
+  },
+  {
+    "name": "Ethereum Classic",
+    "code": "ETC",
+    "symbol": "ξ"
+  },
+  {
+    "name": "Maker",
+    "code": "MKR",
+    "symbol": "Μ"
+  },
+  {
+    "name": "Zcash",
+    "code": "ZEC",
+    "symbol": "ⓩ"
+  },
+  {
+    "name": "Dogecoin",
+    "code": "DOGE",
+    "symbol": "Ð"
+  },
+  {
+    "name": "Augur",
+    "code": "REP",
+    "symbol": "Ɍ"
+  },
+  {
+    "name": "Dai",
+    "code": "DAI",
+    "symbol": "◈"
+  },
+  {
+    "name": "Steem",
+    "code": "STEEM",
+    "symbol": "ȿ"
+  }
+]
+
