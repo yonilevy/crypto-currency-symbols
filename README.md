@@ -13,27 +13,27 @@ Unicode symbols for different crypto tokens.
 | --------------- |:------:|:-----:|
 | Bitcoin | BTC | ₿ |
 | Ethereum | ETH | Ξ |
+| Cardano | ADA | ₳ |
 | Tether | USDT | ₮ |
 | XRP | XRP | ✕ |
-| Bitcoin Cash | BCH | Ƀ |
-| Bitcoin SV | BSV | Ɓ |
+| Solana | SOL | ◎ |
+| Polkadot | DOT | ● |
+| Dogecoin | DOGE | Ð |
 | Litecoin | LTC | Ł |
-| EOS | EOS | ε |
-| Cardano | ADA | ₳ |
+| Bitcoin Cash | BCH | Ƀ |
+| Algorand | ALGO | Ⱥ |
+| Internet Computer | ICP | ∞ |
+| Ethereum Classic | ETC | ξ |
+| Dai | DAI | ◈ |
 | Tezos | XTZ | ꜩ |
 | Monero | XMR | ɱ |
-| Ethereum Classic | ETC | ξ |
-| Maker | MKR | Μ |
-| Zcash | ZEC | ⓩ |
-| Dogecoin | DOGE | Ð |
-| Augur | REP | Ɍ |
-| Dai | DAI | ◈ |
-| Steem | STEEM | ȿ |
-| Polkadot | DOT | ● |
-| Dash | DASH | Đ |
-| Algorand | ALGO | Ⱥ |
-| ECOMI | OMI | Ο |
-| Internet Computer | ICP | ∞ |
-| Nano | NANO | Ӿ |
+| EOS | EOS | ε |
 | Iota | MIOTA | ɨ |
-| Solana | SOL | ◎ |
+| Bitcoin SV | BSV | Ɓ |
+| Maker | MKR | Μ |
+| Dash | DASH | Đ |
+| Zcash | ZEC | ⓩ |
+| ECOMI | OMI | Ο |
+| Nano | NANO | Ӿ |
+| Augur | REP | Ɍ |
+| Steem | STEEM | ȿ |
