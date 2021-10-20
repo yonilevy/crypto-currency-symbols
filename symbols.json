@@ -98,5 +98,10 @@
     "name": "Dash",
     "code": "DASH",
     "symbol": "Đ"
+  },
+  {
+    "name": "Algorand",
+    "code": "ALGO",
+    "symbol": "Ⱥ"
   }
 ]
