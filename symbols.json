@@ -113,5 +113,10 @@
     "name": "Internet Computer",
     "code": "ICP",
     "symbol": "∞"
+  },
+  {
+    "name": "Nano",
+    "code": "NANO",
+    "symbol": "Ӿ"
   }
 ]
