@@ -108,5 +108,10 @@
     "name": "ECOMI",
     "code": "OMI",
     "symbol": "Ο"
+  },
+  {
+    "name": "Internet Computer",
+    "code": "ICP",
+    "symbol": "∞"
   }
 ]
