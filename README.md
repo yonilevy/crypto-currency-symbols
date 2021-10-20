@@ -29,3 +29,11 @@ Unicode symbols for different crypto tokens.
 | Augur | REP | Ɍ |
 | Dai | DAI | ◈ |
 | Steem | STEEM | ȿ |
+| Polkadot | DOT | ● |
+| Dash | DASH | Đ |
+| Algorand | ALGO | Ⱥ |
+| ECOMI | OMI | Ο |
+| Internet Computer | ICP | ∞ |
+| Nano | NANO | Ӿ |
+| Iota | MIOTA | ɨ |
+| Solana | SOL | ◎ |
