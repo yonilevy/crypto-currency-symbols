@@ -123,5 +123,10 @@
     "name": "Iota",
     "code": "MIOTA",
     "symbol": "ɨ"
+  },
+  {
+    "name": "Solana",
+    "code": "SOL",
+    "symbol": "◎"
   }
 ]
