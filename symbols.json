@@ -88,6 +88,10 @@
     "name": "Steem",
     "code": "STEEM",
     "symbol": "ȿ"
+  },
+  {
+    "name": "Polkadot",
+    "code": "DOT",
+    "symbol": "●"
   }
 ]
-
