@@ -103,5 +103,10 @@
     "name": "Algorand",
     "code": "ALGO",
     "symbol": "Ⱥ"
+  },
+  {
+    "name": "ECOMI",
+    "code": "OMI",
+    "symbol": "Ο"
   }
 ]
