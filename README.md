@@ -5,11 +5,11 @@
 
 Unicode symbols for different crypto tokens.
 
-* Collected for my [ticker app](http://yoni.ninja/cointick)
+* Collected for a MacOS [ticker app](http://yoni.ninja/cointick)
 * **Not official in any way**
 * Feel free to PR / create issues with suggestions
 
-| Name            |  Code  | Symbol|
+| Name            |  Symbol  | Unicode Symbol |
 | --------------- |:------:|:-----:|
 | Bitcoin | BTC | ₿ |
 | Ethereum | ETH | Ξ |
