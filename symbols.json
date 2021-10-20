@@ -118,5 +118,10 @@
     "name": "Nano",
     "code": "NANO",
     "symbol": "Ӿ"
+  },
+  {
+    "name": "Iota",
+    "code": "MIOTA",
+    "symbol": "ɨ"
   }
 ]
