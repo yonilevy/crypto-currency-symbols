@@ -1,132 +1,132 @@
 [
   {
     "name": "Bitcoin",
-    "code": "BTC",
-    "symbol": "₿"
+    "symbol": "BTC",
+    "usym": "₿"
   },
   {
     "name": "Ethereum",
-    "code": "ETH",
-    "symbol": "Ξ"
+    "symbol": "ETH",
+    "usym": "Ξ"
   },
   {
     "name": "Tether",
-    "code": "USDT",
-    "symbol": "₮"
+    "symbol": "USDT",
+    "usym": "₮"
   },
   {
     "name": "XRP",
-    "code": "XRP",
-    "symbol": "✕"
+    "symbol": "XRP",
+    "usym": "✕"
   },
   {
     "name": "Bitcoin Cash",
-    "code": "BCH",
-    "symbol": "Ƀ"
+    "symbol": "BCH",
+    "usym": "Ƀ"
   },
   {
     "name": "Bitcoin SV",
-    "code": "BSV",
-    "symbol": "Ɓ"
+    "symbol": "BSV",
+    "usym": "Ɓ"
   },
   {
     "name": "Litecoin",
-    "code": "LTC",
-    "symbol": "Ł"
+    "symbol": "LTC",
+    "usym": "Ł"
   },
   {
     "name": "EOS",
-    "code": "EOS",
-    "symbol": "ε"
+    "symbol": "EOS",
+    "usym": "ε"
   },
   {
     "name": "Cardano",
-    "code": "ADA",
-    "symbol": "₳"
+    "symbol": "ADA",
+    "usym": "₳"
   },
   {
     "name": "Tezos",
-    "code": "XTZ",
-    "symbol": "ꜩ"
+    "symbol": "XTZ",
+    "usym": "ꜩ"
   },
   {
     "name": "Monero",
-    "code": "XMR",
-    "symbol": "ɱ"
+    "symbol": "XMR",
+    "usym": "ɱ"
   },
   {
     "name": "Ethereum Classic",
-    "code": "ETC",
-    "symbol": "ξ"
+    "symbol": "ETC",
+    "usym": "ξ"
   },
   {
     "name": "Maker",
-    "code": "MKR",
-    "symbol": "Μ"
+    "symbol": "MKR",
+    "usym": "Μ"
   },
   {
     "name": "Zcash",
-    "code": "ZEC",
-    "symbol": "ⓩ"
+    "symbol": "ZEC",
+    "usym": "ⓩ"
   },
   {
     "name": "Dogecoin",
-    "code": "DOGE",
-    "symbol": "Ð"
+    "symbol": "DOGE",
+    "usym": "Ð"
   },
   {
     "name": "Augur",
-    "code": "REP",
-    "symbol": "Ɍ"
+    "symbol": "REP",
+    "usym": "Ɍ"
   },
   {
     "name": "Dai",
-    "code": "DAI",
-    "symbol": "◈"
+    "symbol": "DAI",
+    "usym": "◈"
   },
   {
     "name": "Steem",
-    "code": "STEEM",
-    "symbol": "ȿ"
+    "symbol": "STEEM",
+    "usym": "ȿ"
   },
   {
     "name": "Polkadot",
-    "code": "DOT",
-    "symbol": "●"
+    "symbol": "DOT",
+    "usym": "●"
   },
   {
     "name": "Dash",
-    "code": "DASH",
-    "symbol": "Đ"
+    "symbol": "DASH",
+    "usym": "Đ"
   },
   {
     "name": "Algorand",
-    "code": "ALGO",
-    "symbol": "Ⱥ"
+    "symbol": "ALGO",
+    "usym": "Ⱥ"
   },
   {
     "name": "ECOMI",
-    "code": "OMI",
-    "symbol": "Ο"
+    "symbol": "OMI",
+    "usym": "Ο"
   },
   {
     "name": "Internet Computer",
-    "code": "ICP",
-    "symbol": "∞"
+    "symbol": "ICP",
+    "usym": "∞"
   },
   {
     "name": "Nano",
-    "code": "NANO",
-    "symbol": "Ӿ"
+    "symbol": "NANO",
+    "usym": "Ӿ"
   },
   {
     "name": "Iota",
-    "code": "MIOTA",
-    "symbol": "ɨ"
+    "symbol": "MIOTA",
+    "usym": "ɨ"
   },
   {
     "name": "Solana",
-    "code": "SOL",
-    "symbol": "◎"
+    "symbol": "SOL",
+    "usym": "◎"
   }
 ]

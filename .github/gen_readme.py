@@ -1,7 +1,8 @@
 import json
 
+
 def gen_readme(symbols):
-    rows = [f"| {s['name']} | {s['code']} | {s['symbol']} |" for s  in symbols]
+    rows = [f"| {s['name']} | {s['symbol']} | {s['usym']} |" for s in symbols]
     return """
 # Crypto Currency Symbols
 
@@ -9,11 +10,11 @@ def gen_readme(symbols):
 
 Unicode symbols for different crypto tokens.
 
-* Collected for my [ticker app](http://yoni.ninja/cointick)
+* Collected for a MacOS [ticker app](http://yoni.ninja/cointick)
 * **Not official in any way**
 * Feel free to PR / create issues with suggestions
 
-| Name            |  Code  | Symbol|
+| Name            |  Symbol  | Unicode Symbol |
 | --------------- |:------:|:-----:|
 """ + "\n".join(rows)
 
@@ -21,11 +22,9 @@ Unicode symbols for different crypto tokens.
 def main():
     print("Generating README from symbols.json...")
     symbols = json.load(open("symbols.json", "r"))
-    readme = gen_readme(symbols)
     with open("README.md", "w") as f:
         f.write(gen_readme(symbols))
 
 
 if __name__ == '__main__':
     main()
-
