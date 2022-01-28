@@ -10,14 +10,14 @@
         "usym": "Ξ"
     },
     {
-        "name": "Cardano",
-        "symbol": "ADA",
-        "usym": "₳"
-    },
-    {
         "name": "Tether",
         "symbol": "USDT",
         "usym": "₮"
+    },
+    {
+        "name": "Cardano",
+        "symbol": "ADA",
+        "usym": "₳"
     },
     {
         "name": "XRP",
@@ -40,9 +40,19 @@
         "usym": "Ð"
     },
     {
+        "name": "Dai",
+        "symbol": "DAI",
+        "usym": "◈"
+    },
+    {
         "name": "Litecoin",
         "symbol": "LTC",
         "usym": "Ł"
+    },
+    {
+        "name": "Algorand",
+        "symbol": "ALGO",
+        "usym": "Ⱥ"
     },
     {
         "name": "Bitcoin Cash",
@@ -50,9 +60,9 @@
         "usym": "Ƀ"
     },
     {
-        "name": "Algorand",
-        "symbol": "ALGO",
-        "usym": "Ⱥ"
+        "name": "ECOMI",
+        "symbol": "OMI",
+        "usym": "Ο"
     },
     {
         "name": "Internet Computer",
@@ -65,9 +75,9 @@
         "usym": "ξ"
     },
     {
-        "name": "Dai",
-        "symbol": "DAI",
-        "usym": "◈"
+        "name": "Monero",
+        "symbol": "XMR",
+        "usym": "ɱ"
     },
     {
         "name": "Tezos",
@@ -75,19 +85,14 @@
         "usym": "ꜩ"
     },
     {
-        "name": "Monero",
-        "symbol": "XMR",
-        "usym": "ɱ"
+        "name": "Iota",
+        "symbol": "MIOTA",
+        "usym": "ɨ"
     },
     {
         "name": "EOS",
         "symbol": "EOS",
         "usym": "ε"
-    },
-    {
-        "name": "Iota",
-        "symbol": "MIOTA",
-        "usym": "ɨ"
     },
     {
         "name": "Bitcoin SV",
@@ -100,19 +105,14 @@
         "usym": "Μ"
     },
     {
-        "name": "Dash",
-        "symbol": "DASH",
-        "usym": "Đ"
-    },
-    {
         "name": "Zcash",
         "symbol": "ZEC",
         "usym": "ⓩ"
     },
     {
-        "name": "ECOMI",
-        "symbol": "OMI",
-        "usym": "Ο"
+        "name": "Dash",
+        "symbol": "DASH",
+        "usym": "Đ"
     },
     {
         "name": "Nano",
