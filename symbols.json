@@ -2,131 +2,157 @@
     {
         "name": "Bitcoin",
         "symbol": "BTC",
-        "usym": "₿"
+        "usym": "₿",
+        "gecko": "bitcoin"
     },
     {
         "name": "Ethereum",
         "symbol": "ETH",
-        "usym": "Ξ"
+        "usym": "Ξ",
+        "gecko": "ethereum"
     },
     {
         "name": "Tether",
         "symbol": "USDT",
-        "usym": "₮"
+        "usym": "₮",
+        "gecko": "tether"
     },
     {
         "name": "Cardano",
         "symbol": "ADA",
-        "usym": "₳"
+        "usym": "₳",
+        "gecko": "cardano"
     },
     {
         "name": "XRP",
         "symbol": "XRP",
-        "usym": "✕"
+        "usym": "✕",
+        "gecko": "ripple"
     },
     {
         "name": "Solana",
         "symbol": "SOL",
-        "usym": "◎"
+        "usym": "◎",
+        "gecko": "solana"
     },
     {
         "name": "Polkadot",
         "symbol": "DOT",
-        "usym": "●"
+        "usym": "●",
+        "gecko": "polkadot"
     },
     {
         "name": "Dogecoin",
         "symbol": "DOGE",
-        "usym": "Ð"
+        "usym": "Ð",
+        "gecko": "dogecoin"
     },
     {
         "name": "Dai",
         "symbol": "DAI",
-        "usym": "◈"
+        "usym": "◈",
+        "gecko": "dai"
     },
     {
         "name": "Litecoin",
         "symbol": "LTC",
-        "usym": "Ł"
+        "usym": "Ł",
+        "gecko": "litecoin"
     },
     {
         "name": "Algorand",
         "symbol": "ALGO",
-        "usym": "Ⱥ"
+        "usym": "Ⱥ",
+        "gecko": "algorand"
     },
     {
         "name": "Bitcoin Cash",
         "symbol": "BCH",
-        "usym": "Ƀ"
+        "usym": "Ƀ",
+        "gecko": "bitcoin-cash"
     },
     {
         "name": "ECOMI",
         "symbol": "OMI",
-        "usym": "Ο"
+        "usym": "Ο",
+        "gecko": "ecomi"
     },
     {
         "name": "Internet Computer",
         "symbol": "ICP",
-        "usym": "∞"
+        "usym": "∞",
+        "gecko": "internet-computer"
     },
     {
         "name": "Ethereum Classic",
         "symbol": "ETC",
-        "usym": "ξ"
+        "usym": "ξ",
+        "gecko": "ethereum-classic"
     },
     {
         "name": "Monero",
         "symbol": "XMR",
-        "usym": "ɱ"
+        "usym": "ɱ",
+        "gecko": "monero"
     },
     {
         "name": "Tezos",
         "symbol": "XTZ",
-        "usym": "ꜩ"
+        "usym": "ꜩ",
+        "gecko": "tezos"
     },
     {
         "name": "Iota",
         "symbol": "MIOTA",
-        "usym": "ɨ"
+        "usym": "ɨ",
+        "gecko": "iota"
     },
     {
         "name": "EOS",
         "symbol": "EOS",
-        "usym": "ε"
+        "usym": "ε",
+        "gecko": "eos"
     },
     {
         "name": "Bitcoin SV",
         "symbol": "BSV",
-        "usym": "Ɓ"
+        "usym": "Ɓ",
+        "gecko": "bitcoin-cash-sv"
     },
     {
         "name": "Maker",
         "symbol": "MKR",
-        "usym": "Μ"
+        "usym": "Μ",
+        "gecko": "maker"
     },
     {
         "name": "Zcash",
         "symbol": "ZEC",
-        "usym": "ⓩ"
+        "usym": "ⓩ",
+        "gecko": "zcash"
     },
     {
         "name": "Dash",
         "symbol": "DASH",
-        "usym": "Đ"
+        "usym": "Đ",
+        "gecko": "dash"
     },
     {
         "name": "Nano",
         "symbol": "XNO",
-        "usym": "Ӿ"
+        "usym": "Ӿ",
+        "gecko": "nano"
     },
     {
         "name": "Augur",
         "symbol": "REP",
-        "usym": "Ɍ"
+        "usym": "Ɍ",
+        "gecko": "augur"
     },
     {
         "name": "Steem",
         "symbol": "STEEM",
-        "usym": "ȿ"
+        "usym": "ȿ",
+        "gecko": "steem"
     }
 ]

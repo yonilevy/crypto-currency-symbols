@@ -2,7 +2,7 @@ import json
 
 
 def gen_readme(symbols):
-    rows = [f"| {s['name']} | {s['symbol']} | {s['usym']} |" for s in symbols]
+    rows = [f"| {s['name']} | {s['gecko']} | {s['symbol']} | {s['usym']} |" for s in symbols]
     return """
 # Crypto Currency Symbols
 
@@ -14,8 +14,8 @@ Unicode symbols for different crypto tokens.
 * **Not official in any way**
 * Feel free to PR / create issues with suggestions
 
-| Name            |  Symbol  | Unicode Symbol |
-| --------------- |:------:|:-----:|
+| Name | CoinGecko id | Symbol | Unicode Symbol |
+|------|:------------:|:------:|:--------------:|
 """ + "\n".join(rows)
 
 
