@@ -9,31 +9,31 @@ Unicode symbols for different crypto tokens.
 * **Not official in any way**
 * Feel free to PR / create issues with suggestions
 
-| Name            |  Symbol  | Unicode Symbol |
-| --------------- |:------:|:-----:|
-| Bitcoin | BTC | ₿ |
-| Ethereum | ETH | Ξ |
-| Cardano | ADA | ₳ |
-| Tether | USDT | ₮ |
-| XRP | XRP | ✕ |
-| Solana | SOL | ◎ |
-| Polkadot | DOT | ● |
-| Dogecoin | DOGE | Ð |
-| Litecoin | LTC | Ł |
-| Bitcoin Cash | BCH | Ƀ |
-| Algorand | ALGO | Ⱥ |
-| Internet Computer | ICP | ∞ |
-| Ethereum Classic | ETC | ξ |
-| Dai | DAI | ◈ |
-| Tezos | XTZ | ꜩ |
-| Monero | XMR | ɱ |
-| EOS | EOS | ε |
-| Iota | MIOTA | ɨ |
-| Bitcoin SV | BSV | Ɓ |
-| Maker | MKR | Μ |
-| Dash | DASH | Đ |
-| Zcash | ZEC | ⓩ |
-| ECOMI | OMI | Ο |
-| Nano | NANO | Ӿ |
-| Augur | REP | Ɍ |
-| Steem | STEEM | ȿ |
+| Name | CoinGecko id | Symbol | Unicode Symbol |
+|------|:------------:|:------:|:--------------:|
+| Bitcoin | bitcoin | BTC | ₿ |
+| Ethereum | ethereum | ETH | Ξ |
+| Tether | tether | USDT | ₮ |
+| Cardano | cardano | ADA | ₳ |
+| XRP | ripple | XRP | ✕ |
+| Solana | solana | SOL | ◎ |
+| Polkadot | polkadot | DOT | ● |
+| Dogecoin | dogecoin | DOGE | Ð |
+| Dai | dai | DAI | ◈ |
+| Litecoin | litecoin | LTC | Ł |
+| Algorand | algorand | ALGO | Ⱥ |
+| Bitcoin Cash | bitcoin-cash | BCH | Ƀ |
+| ECOMI | ecomi | OMI | Ο |
+| Internet Computer | internet-computer | ICP | ∞ |
+| Ethereum Classic | ethereum-classic | ETC | ξ |
+| Monero | monero | XMR | ɱ |
+| Tezos | tezos | XTZ | ꜩ |
+| Iota | iota | MIOTA | ɨ |
+| EOS | eos | EOS | ε |
+| Bitcoin SV | bitcoin-cash-sv | BSV | Ɓ |
+| Maker | maker | MKR | Μ |
+| Zcash | zcash | ZEC | ⓩ |
+| Dash | dash | DASH | Đ |
+| Nano | nano | XNO | Ӿ |
+| Augur | augur | REP | Ɍ |
+| Steem | steem | STEEM | ȿ |
