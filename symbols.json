@@ -72,6 +72,12 @@
         "gecko": "bitcoin-cash"
     },
     {
+        "name": "Pepe",
+        "symbol": "PEPE",
+        "usym": "🐸︎",
+        "gecko": "pepe"
+    },
+    {
         "name": "ECOMI",
         "symbol": "OMI",
         "usym": "Ο",
