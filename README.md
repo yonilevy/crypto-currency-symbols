@@ -23,6 +23,7 @@ Unicode symbols for different crypto tokens.
 | Litecoin | litecoin | LTC | Ł |
 | Algorand | algorand | ALGO | Ⱥ |
 | Bitcoin Cash | bitcoin-cash | BCH | Ƀ |
+| Pepe | pepe | PEPE | 🐸︎ |
 | ECOMI | ecomi | OMI | Ο |
 | Internet Computer | internet-computer | ICP | ∞ |
 | Ethereum Classic | ethereum-classic | ETC | ξ |
