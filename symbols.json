@@ -102,6 +102,12 @@
         "gecko": "monero"
     },
     {
+        "name": "Filecoin",
+        "symbol": "FIL",
+        "usym": "⨎",
+        "gecko": "filecoin"
+    },  
+    {
         "name": "Tezos",
         "symbol": "XTZ",
         "usym": "ꜩ",
