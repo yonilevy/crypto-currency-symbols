@@ -28,6 +28,7 @@ Unicode symbols for different crypto tokens.
 | Internet Computer | internet-computer | ICP | ∞ |
 | Ethereum Classic | ethereum-classic | ETC | ξ |
 | Monero | monero | XMR | ɱ |
+| Filecoin | filecoin | FIL | ⨎ |
 | Tezos | tezos | XTZ | ꜩ |
 | Iota | iota | MIOTA | ɨ |
 | EOS | eos | EOS | ε |
